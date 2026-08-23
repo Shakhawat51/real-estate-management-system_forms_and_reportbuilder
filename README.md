@@ -51,27 +51,5 @@ Here are some screenshots from my project, showcasing different features, interf
 
 These screenshots demonstrate some of the key features and interfaces of the project.
 
-<div align="center">
-
-### 🏠 Try the Live Project
-
-<a href="https://oracleapex.com/ords/r/rems0/rss-real-estate/login?session=7645165881535">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Open%20Real%20Estate%20Management%20System-2ea44f?style=for-the-badge&logo=oracle&logoColor=white" alt="Open Live Project"/>
-</a>
-
-<br><br>
-
-🔗 **[Click here to open and explore the live project](https://oracleapex.com/ords/r/rems0/rss-real-estate/login?session=7645165881535)**
-
-### 🔐 Demo Login Credentials
-
-| Username | Password   |
-| -------- | ---------- |
-| `admin`  | `admin123` |
-
-</div>
-
-> 💡 Use the demo credentials above to log in and explore the project features.
-
 ⭐ If you find this project interesting, feel free to **star the repository**!
 
